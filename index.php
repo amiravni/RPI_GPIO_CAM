@@ -12,7 +12,7 @@ $email->From      = 'AmirPI@myPI.com';
 $email->FromName  = 'AmirFromPI';
 $email->Subject   = 'Video From Cam';
 $email->Body      = $bodytext;
-$email->AddAddress('amiravni83@gmail.com');
+$email->AddAddress('MYMAIL@gmail.com');
 
 $file_to_attach = './output0.avi';
 
